@@ -49,7 +49,7 @@ Unit tests for at least two API endpoints are available in the `tests` directory
 
 ### Running Tests
 - First install `npm install --save-dev jest`
-- Execute tests using a testing framework (e.g., Jest) with `npm jest`.
+- Execute tests using a testing framework (e.g., Jest) with `npx jest`.
 
 ## Contributions
 
