@@ -1,6 +1,3 @@
-// This function is use to findcommonelement from two array.
-// You can run this code by 'node logicalOperation.js' .
-
 
 function findCommonElements(arr1, arr2) {
     const commonElements = [];

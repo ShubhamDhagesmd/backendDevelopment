@@ -1,6 +1,4 @@
-// This function two car array objects as input and merge them into new object, preserving the properties from both the array.
-// You can run this code by 'node objectOperation.js' in terminal.
-
+ 
 // Car arrays representing cars
 const carArray1 = [
     {

@@ -1,5 +1,3 @@
-// This function is use return the unique elements from the array.
-// you can run this code by 'node arrayManipulation.js'.
 
 function getUniqueElements(arr) {
     const uniqueArr = [];

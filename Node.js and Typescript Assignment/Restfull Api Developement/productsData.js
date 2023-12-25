@@ -13,8 +13,11 @@ var __assign = (this && this.__assign) || function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.deleteProduct = exports.updateProduct = exports.addProduct = exports.getProductById = exports.getProducts = void 0;
 var products = [
-    { id: 1, name: 'Product 1', price: 10 },
-    { id: 2, name: 'Product 2', price: 20 },
+    { id: 1, name: 'Product_1', price: 10 },
+    { id: 2, name: 'Product_2', price: 20 },
+    { id: 3, name: 'Product_3', price: 30 },
+    { id: 4, name: 'Product_4', price: 40 },
+    { id: 5, name: 'Product_5', price: 50 },
     // Add more initial products here if needed
 ];
 var nextId = products.length + 1; // Track the next available ID
